@@ -1,7 +1,7 @@
 {
     "canisters": {
         "website": {
-            "type": "assets",
+            "type": "assets"
             "source": ["assets"]
         }
     }
